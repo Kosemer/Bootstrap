@@ -23,14 +23,30 @@
   <div class="container mt-3">
     <div class="row justify-content-center">
       <div class="col-md-8">
-        <div class="dropdown-center">
+        <div class="btn-group dropup">
           <button
             class="btn btn-secondary dropdown-toggle"
             type="button"
             id="dropdown-center-btn"
             data-bs-toggle="dropdown"
             aria-expanded="false">
-            Centered dropdown</button>
+            Dropup button</button>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-center-btn">
+              <li><a href="#" class="dropdown-item">One</a></li>
+              <li><a href="#" class="dropdown-item">Two</a></li>
+              <li><a href="#" class="dropdown-item">Three</a></li>
+              <li><a href="#" class="dropdown-item">Four</a></li>
+            </ul>
+        </div> 
+        <div class="btn-group dropup">
+          <button type="button" class="btn btn-success">Split dropup</button>
+          <button
+            class="btn btn-secondary dropdown-toggle dropdown-toggle-split"
+            type="button"
+            id="dropdown-center-btn"
+            data-bs-toggle="dropdown"
+            aria-expanded="false">
+            <span class="visually-hidden">Dropup toggle</span></button>
             <ul class="dropdown-menu" aria-labelledby="dropdown-center-btn">
               <li><a href="#" class="dropdown-item">One</a></li>
               <li><a href="#" class="dropdown-item">Two</a></li>
