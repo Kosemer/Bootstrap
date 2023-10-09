@@ -23,10 +23,24 @@
             aria-expanded="false">
             Default dropdown
           </button>
-          <ul class="dropdown-menu">
-            <li><button class="dropdown-item" type="button">One</button></li>
-            <li><button class="dropdown-item" type="button">Two</button></li>
-            <li><button class="dropdown-item" type="button">Three</button></li>
+          <ul class="dropdown-menu" style="width: 400px;">
+            <form class="px-4 py-3">
+              <div class="mb-2">
+                <label for="email-id" class="form-label">Email id</label>
+                <input type="email" class="form-control form-control-sm" id="email-id" placeholder="adma@gmail.com">
+              </div>
+              <div class="mb-2">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" class="form-control form-control-sm" id="password" placeholder="password">
+              </div>
+              <div class="mb-2">
+                <input type="checkbox" class="form-check-input" id="remember-me">
+                <label for="remember-me" class="form-check-label">Remember me</label>
+              </div>
+              <div class="mb-2">
+                <button type="submit" class="btn btn-sm btn-success">Sign-up now</button>
+              </div>
+            </form>
           </ul>
         </div>
       </div>
