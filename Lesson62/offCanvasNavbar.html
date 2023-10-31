@@ -30,7 +30,7 @@
           </button>
         </div>
         <div class="offcanvas-body">
-          <ul class="navbar nav justify-content-end flex-grow-1 pe-3">
+          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item">
               <a href="#" class="nav-link active" aria-current="page">Home</a>
             </li>
@@ -42,7 +42,7 @@
                 data-bs-toggle="dropdown" aria-expanded="false">
                 Dropdown
               </a>
-              <ul class="dropdown-men" aria-labelledby="offcanvasNavbarDropdown">
+              <ul class="dropdown-menu" aria-labelledby="offcanvasNavbarDropdown">
                 <li><a href="#" class="dropdown-item">Action</a></li>
                 <li><a href="#" class="dropdown-item">Another Action</a></li>
                 <li><a href="#" class="dropdown-item">New Action</a></li>
@@ -54,8 +54,10 @@
             </li>
           </ul>
           <form class="d-flex mt-3" role="search">
-            <input type="search" class="form-control me-2" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success" type="submit">Search</button>
+            <div class="input-group">
+              <input type="search" class="form-control me-2" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">Search</button>
+            </div>
           </form>
         </div>
       </div>
