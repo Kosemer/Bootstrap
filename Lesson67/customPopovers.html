@@ -16,6 +16,14 @@
       .top-spacing {
         margin-top: 20%;
       }
+      .custom-popover {
+        --bs-popover-max-width: 200px;
+        --bs-popover-border-color: var(--bs-primary);
+        --bs-popover-header-bg: var(--bs-primary);
+        --bs-popover-header-color: var(--bs-white);
+        --bs-popover-body-padding-x: 1rem;
+        --bs-popover-body-padding-y: .5rem;
+      }
     </style>
   </head>
 
@@ -23,7 +31,16 @@
     <div class="container">
       <div class="row justify-content-center top-spacing">
         <div class="col-md-8">
-          
+          <button
+          type="button"
+          class="btn btn-primary"
+          data-bs-toggle="popover"
+          title="Popver title"
+          data-bs-content="Here's some amazing content"
+          data-bs-placement="top"
+          data-bs-custom-class="custom-popover">
+          Popver top
+        </button>
         </div>
       </div>
     </div>
