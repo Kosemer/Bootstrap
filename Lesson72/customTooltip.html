@@ -8,6 +8,15 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
   <style>
+    .primaryTooltip{
+      --bs-tooltip-bg: var(--bs-primary)
+    }
+    .successTooltip{
+      --bs-tooltip-bg: var(--bs-success)
+    }
+    .dangerTooltip{
+      --bs-tooltip-bg: var(--bs-danger)
+    }
     .top-spacing {
       margin-top: 20%;
     }
@@ -19,7 +28,39 @@
     <div class="row justify-content-center mb-3">
       <div class="col-md-8">
         <p>
-          <a href="#" data-bs-toogle="tooltip" title="Best Css framework ever">Bootstrap</a>
+          <a 
+            href="#" 
+            data-bs-toogle="tooltip" 
+            title="Best Css framework ever">
+            Bootstrap
+          </a>
+        </p>
+        <p>
+          <a 
+            href="#" 
+            data-bs-toogle="tooltip" 
+            title="Best Css framework ever"
+            data-bs-custom-class="primaryTooltip">
+            Bootstrap
+          </a>
+        </p>
+        <p>
+          <a 
+            href="#" 
+            data-bs-toogle="tooltip" 
+            title="Best Css framework ever"
+            data-bs-custom-class="successTooltip">
+            Bootstrap
+          </a>
+        </p>
+        <p>
+          <a 
+            href="#" 
+            data-bs-toogle="tooltip" 
+            title="Best Css framework ever"
+            data-bs-custom-class="dangerTooltip">
+            Bootstrap
+          </a>
         </p>
       </div>
     </div>
