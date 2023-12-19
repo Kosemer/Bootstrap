@@ -18,14 +18,12 @@
   <div class="container mt-3">
     <div class="row justify-content-center mb-3">
       <div class="col-md-8">
-        <p class="p-3 m-0 bg-primary">Sample text</p>
-        <p class="p-3 m-0 bg-primary bg-primary-subtle">Sample text</p>
-        <p class="p-3 m-0 bg-success">Sample text</p>
-        <p class="p-3 m-0 bg-success bg-success-subtle">Sample text</p>
-        <p class="p-3 m-0 bg-warning">Sample text</p>
-        <p class="p-3 m-0 bg-warning bg-warning-subtle">Sample text</p>
-        <p class="p-3 m-0 bg-dark text-white">Sample text</p>
-        <p class="p-3 m-0 bg-dark text-white bg-dark-subtle">Sample text</p>
+        <div class="p-3 m-2 bg-primary bg-gradient text-white">Something to display</div>
+        <div class="p-3 m-2 bg-secondary bg-gradient text-white">Something to display</div>
+        <div class="p-3 m-2 bg-success bg-gradient text-white">Something to display</div>
+        <div class="p-3 m-2 bg-info bg-gradient text-dark">Something to display</div>
+        <div class="p-3 m-2 bg-light bg-gradient text-dark">Something to display</div>
+        <div class="p-3 m-2 bg-transparent bg-gradient text-dark">Something to display</div>
       </div>
     </div>
   </div>
@@ -39,8 +37,7 @@
 
     const toastTrigger = document.getElementById('liveToastBtn')
     const toastLiveExample = document.getElementById('liveToast')
-    if(toastTrigger)
-    {
+    if (toastTrigger) {
       toastTrigger.addEventListener('click', () => {
         const toast = new bootstrap.Toast(toastLiveExample)
         toast.show()
