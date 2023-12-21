@@ -11,14 +11,30 @@
     .top-spacing {
       margin-top: 20%;
     }
+    .box{
+      width: 100px;
+      height: 100px;
+    }
   </style>
 </head>
 
 <body>
   <div class="container mt-3">
     <div class="row justify-content-center mb-3">
+      <div class="col-md-8 mb-3">
+        <div class="box bg-light m-2 float-start border"></div>
+        <div class="box bg-light m-2 float-start border-top"></div>
+        <div class="box bg-light m-2 float-start border-end"></div>
+        <div class="box bg-light m-2 float-start border-bottom"></div>
+        <div class="box bg-light m-2 float-start border-start"></div>
+      </div>
+      <hr>
       <div class="col-md-8">
-        
+        <div class="box bg-light m-2 float-start border border-0"></div>
+        <div class="box bg-light m-2 float-start border border-top-0"></div>
+        <div class="box bg-light m-2 float-start border border-end-0"></div>
+        <div class="box bg-light m-2 float-start border border-bottom-0"></div>
+        <div class="box bg-light m-2 float-start border border-start-0"></div>
       </div>
     </div>
   </div>
