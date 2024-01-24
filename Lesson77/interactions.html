@@ -18,7 +18,18 @@
   <div class="container mt-3">
     <div class="row justify-content-center mb-3 mt-5">
       <div class="col-md-8">
-        
+        <p class="user-select-all">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, ex vitae ipsum
+          assumenda ullam rem
+          suscipit possimus excepturi cupiditate enim itaque voluptate ut quas, corporis dicta a quos! Laboriosam,
+          cupiditate.</p>
+        <p class="user-select-auto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, ex vitae ipsum
+          assumenda ullam rem
+          suscipit possimus excepturi cupiditate enim itaque voluptate ut quas, corporis dicta a quos! Laboriosam,
+          cupiditate.</p>
+        <p class="user-select-none">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, ex vitae ipsum
+          assumenda ullam rem
+          suscipit possimus excepturi cupiditate enim itaque voluptate ut quas, corporis dicta a quos! Laboriosam,
+          cupiditate.</p>
       </div>
     </div>
   </div>
@@ -32,8 +43,7 @@
 
     const toastTrigger = document.getElementById('liveToastBtn')
     const toastLiveExample = document.getElementById('liveToast')
-    if(toastTrigger)
-    {
+    if (toastTrigger) {
       toastTrigger.addEventListener('click', () => {
         const toast = new bootstrap.Toast(toastLiveExample)
         toast.show()
