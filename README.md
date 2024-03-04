@@ -8,12 +8,16 @@
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/a134a354-7bb6-4e0f-be8c-a89a5dbf4e3d" width="100%" height="100%">
     </td>
     <td>
-      <p align="center"><code>Dropdown Alignment Options</code></p>
-      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/a134a354-7bb6-4e0f-be8c-a89a5dbf4e3d" width="100%" height="100%">
+      <p align="center"><code>Dropdown Form</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/a601eb94-40e9-4d0d-bc28-f4314ddc10c3" width="100%" height="100%">
+    </td>
+    <td>
+      <p align="center"><code>Auto close</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/96857c2e-5eb5-4cac-8e16-b994462f7ca3" width="100%" height="100%">
     </td>
         <td>
-      <p align="center"><code>Dropdown Alignment Options</code></p>
-      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/a134a354-7bb6-4e0f-be8c-a89a5dbf4e3d" width="100%" height="100%">
+      <p align="center"><code>Dropdown options</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/78a8bac8-4190-43dd-96df-b6cd8be0d265" width="100%" height="100%">
     </td>
   </tr>
 </table>
