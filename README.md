@@ -15,9 +15,13 @@
       <p align="center"><code>Auto close</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/96857c2e-5eb5-4cac-8e16-b994462f7ca3" width="100%" height="100%">
     </td>
-        <td>
+    <td>
       <p align="center"><code>Dropdown options</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/78a8bac8-4190-43dd-96df-b6cd8be0d265" width="100%" height="100%">
+    </td>
+      <td>
+      <p align="center"><code>Menu contents</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/13a03c81-fbde-4dab-ad9a-6cf7e003ae3f" width="100%" height="100%">
     </td>
   </tr>
 </table>
