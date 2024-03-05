@@ -36,6 +36,10 @@
       <p align="center"><code>Position Examples</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/a248832a-2e5e-444f-b942-5936ceb9632f" width="100%" height="100%">
     </td>
+        <td>
+      <p align="center"><code>Position Examples 2</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/dcd22c39-1519-4763-9639-92123256c91b" width="100%" height="100%">
+    </td>
   </tr>
 </table>
 
