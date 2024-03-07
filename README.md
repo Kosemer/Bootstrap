@@ -36,6 +36,10 @@
       <p align="center"><code>Links</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/f4239b09-3f9a-49ae-89c4-40feb4638d08" width="100%" height="100%">
     </td>
+    <td>
+      <p align="center"><code>Pills Behavior</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/fc54dd9b-4ee7-49ab-baad-42889f73c0ae" width="100%" height="100%">
+    </td>
   </tr>
 </table>
 
