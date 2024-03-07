@@ -55,6 +55,10 @@
       <p align="center"><code>Sizing</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/2cf4c4cd-6779-4ef6-a2ae-3c9e20e490b8" width="100%" height="100%">
     </td>
+      <td>
+      <p align="center"><code>Icons</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/bdcb132e-bd02-473c-9c77-48524953d820" width="100%" height="100%">
+    </td>
   </tr>
 </table>
 
