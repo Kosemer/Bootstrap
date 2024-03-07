@@ -26,6 +26,17 @@
   </tr>
 </table>
 
+# Lesson64
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><code>OffCanvas</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/67a9b132-bfdb-4a0f-b4fa-d93f2282a0f7" width="100%" height="100%">
+    </td>
+  </tr>
+</table>
+
 <br><br>
 
 # Lesson78
@@ -62,15 +73,5 @@
   </tr>
 </table>
 
-# Lesson64
-
-<table>
-  <tr>
-    <td>
-      <p align="center"><code>OffCanvas</code></p>
-      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/67a9b132-bfdb-4a0f-b4fa-d93f2282a0f7" width="100%" height="100%">
-    </td>
-  </tr>
-</table>
 
 
