@@ -40,6 +40,10 @@
       <p align="center"><code>Pills Behavior</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/fc54dd9b-4ee7-49ab-baad-42889f73c0ae" width="100%" height="100%">
     </td>
+        <td>
+      <p align="center"><code>Pills Behavior Vertical</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/a76af365-8a93-4617-9bae-83e19946ad87" width="100%" height="100%">
+    </td>
   </tr>
 </table>
 
