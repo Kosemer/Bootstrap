@@ -41,8 +41,8 @@
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/a94b130d-36bd-46ae-817b-6ea96cccacf1" width="100%" height="100%">
     </td>
         <td>
-      <p align="center"><code>Pills Behavior Vertical</code></p>
-      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/a76af365-8a93-4617-9bae-83e19946ad87" width="100%" height="100%">
+      <p align="center"><code>Navbar Off-Canvas</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/2df537c2-c4dc-4983-a5fb-d7d12e2deb90" width="100%" height="100%">
     </td>
   </tr>
 </table>
