@@ -118,9 +118,11 @@
       <p align="center"><code>Shadow</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/5b94c55b-03e9-44c4-b15b-c5da6cb16efc" width="100%" height="100%">
     </td>
+    </tr>
+  <tr>
         <td>
       <p align="center"><code>Sizing</code></p>
-      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/2cf4c4cd-6779-4ef6-a2ae-3c9e20e490b8" width="100%" height="100%">
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/2cf4c4cd-6779-4ef6-a2ae-3c9e20e490b8" width="60%" height="60%">
     </td>
       <td>
       <p align="center"><code>Icons</code></p>
