@@ -37,8 +37,8 @@
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/3f70fab9-c956-4097-b255-e756477bfcb7" width="100%" height="100%">
     </td>
     <td>
-      <p align="center"><code>Pills Behavior</code></p>
-      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/fc54dd9b-4ee7-49ab-baad-42889f73c0ae" width="100%" height="100%">
+      <p align="center"><code>Navbar Nested Dropdown</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/a94b130d-36bd-46ae-817b-6ea96cccacf1" width="100%" height="100%">
     </td>
         <td>
       <p align="center"><code>Pills Behavior Vertical</code></p>
