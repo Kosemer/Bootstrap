@@ -88,7 +88,7 @@
   <tr>
     <td>
       <p align="center"><code>OffCanvas</code></p>
-      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/67a9b132-bfdb-4a0f-b4fa-d93f2282a0f7" width="100%" height="100%">
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/67a9b132-bfdb-4a0f-b4fa-d93f2282a0f7" width="50%" height="50%">
     </td>
   </tr>
 </table>
