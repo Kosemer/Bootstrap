@@ -1,3 +1,16 @@
+# Lesson56
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><code>Multi Collapse</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/5754e375-b265-4588-bcae-1283116c3085" width="100%" height="100%">
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 # Lesson57/58
 
 <table>
