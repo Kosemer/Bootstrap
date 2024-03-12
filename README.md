@@ -46,13 +46,15 @@
       <p align="center"><code>Custom Content</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/8ac99d8c-e5a9-41e0-ad92-912840b94d1e" width="100%" height="100%">
     </td>
+    </tr>
+  <tr>
     <td>
       <p align="center"><code>List Badge</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/d344838a-5280-4881-8362-238f61bc64f4" width="100%" height="100%">
     </td>
         <td>
       <p align="center"><code>Checkbox, Radio Button</code></p>
-      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/d344838a-5280-4881-8362-238f61bc64f4" width="100%" height="100%">
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/6878e161-91e3-4075-96a4-c48fdbe21cda" width="100%" height="100%">
     </td>
   </tr>
 </table>
