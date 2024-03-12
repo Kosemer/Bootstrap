@@ -50,6 +50,10 @@
       <p align="center"><code>List Badge</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/d344838a-5280-4881-8362-238f61bc64f4" width="100%" height="100%">
     </td>
+        <td>
+      <p align="center"><code>Checkbox, Radio Button</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/d344838a-5280-4881-8362-238f61bc64f4" width="100%" height="100%">
+    </td>
   </tr>
 </table>
 
