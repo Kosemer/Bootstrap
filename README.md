@@ -35,6 +35,23 @@
 <table>
   <tr>
     <td>
+      <p align="center"><code>List</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/a72b1939-40cc-4238-a700-efe8d2353633" width="100%" height="100%">
+    </td>
+    <td>
+      <p align="center"><code>Modal</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/16b3dcdd-049d-4693-a002-0eda3cb435db" width="100%" height="100%">
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+# Lesson61
+
+<table>
+  <tr>
+    <td>
       <p align="center"><code>Modal</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/bf8df1c3-ab89-4c16-a5a7-bc8a90f3b569" width="100%" height="100%">
     </td>
