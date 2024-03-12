@@ -30,7 +30,7 @@
 
 <br><br>
 
-# Lesson61
+# Lesson60
 
 <table>
   <tr>
@@ -39,8 +39,16 @@
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/a72b1939-40cc-4238-a700-efe8d2353633" width="100%" height="100%">
     </td>
     <td>
-      <p align="center"><code>Modal</code></p>
-      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/16b3dcdd-049d-4693-a002-0eda3cb435db" width="100%" height="100%">
+      <p align="center"><code>Javascript Tabs</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/3478d4d5-52bb-4642-b645-a3a3ae0d125d" width="100%" height="100%">
+    </td>
+        <td>
+      <p align="center"><code>Custom Content</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/8ac99d8c-e5a9-41e0-ad92-912840b94d1e" width="100%" height="100%">
+    </td>
+    <td>
+      <p align="center"><code>List Badge</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/d344838a-5280-4881-8362-238f61bc64f4" width="100%" height="100%">
     </td>
   </tr>
 </table>
