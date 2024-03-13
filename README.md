@@ -1,3 +1,16 @@
+# Lesson47
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><code>Quote</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/754db522-01ad-490b-8960-74966bb172e4" width="50%" height="50%">
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 # Lesson50
 
 <table>
