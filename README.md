@@ -1,3 +1,16 @@
+# Lesson35
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><code>Accordion</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/c150d807-c174-4846-bfd3-530657850286" width="50%" height="50%">
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 # Lesson36/37
 
 <table>
