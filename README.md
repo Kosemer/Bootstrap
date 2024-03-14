@@ -1,3 +1,16 @@
+# Lesson38
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><code>Badge</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/cbfc7689-3439-495f-92cd-8adc57ca0511" width="50%" height="50%">
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 # Lesson39
 
 <table>
