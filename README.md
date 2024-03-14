@@ -1,3 +1,20 @@
+# Lesson36/37
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><code>Alert</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/47594203-8ccd-4a60-8383-c219c4bc30c1" width="50%" height="50%">
+    </td>
+        <td>
+      <p align="center"><code>Alert</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/47d1f6c8-f3b5-4163-a1a4-9b3b95d492a7" width="50%" height="50%">
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 # Lesson38
 
 <table>
