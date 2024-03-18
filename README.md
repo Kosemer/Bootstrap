@@ -4,6 +4,19 @@
   <tr>
     <td>
       <p align="center"><code>Form</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/c9f2d076-d3da-4842-985d-3202ac66a9a6" width="70%" height="70%">
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+# Lesson32
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><code>Form</code></p>
       <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/54bcb0cf-8d14-4115-b6ff-583437984808" width="100%" height="100%">
     </td>
   </tr>
