@@ -1,3 +1,16 @@
+# Lesson33
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><code>Input, Option</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/8fe910d9-bea3-44e3-870d-0af69bca3eb3" width="100%" height="100%">
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 # Lesson34
 
 <table>
