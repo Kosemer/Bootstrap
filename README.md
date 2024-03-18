@@ -1,3 +1,16 @@
+# Lesson32
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><code>Form</code></p>
+      <img src="https://github.com/Kosemer/Bootstrap/assets/82768146/54bcb0cf-8d14-4115-b6ff-583437984808" width="100%" height="100%">
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 # Lesson33
 
 <table>
